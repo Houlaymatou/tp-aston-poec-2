@@ -1,3 +1,27 @@
-body {
-    padding: 0;
+.banniere {
+	background-image: url("mer.jpg");
+	background-size: 100%;
+	overflow: auto;
 }
+
+.pub {
+	float:left;
+	color: white;
+	width: 100%;
+}
+
+.ligne1 {
+	font-size: 40px;
+	text-align: center;
+}
+
+.ligne2 {
+	font-size: 20px;
+	text-align: center;
+}
+
+.bouton {
+	background-color:yellow;
+}
+
+.b {text-align: center;}
